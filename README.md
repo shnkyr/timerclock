@@ -1,4 +1,4 @@
-# timerclock
+# Timerclock
 Developed Using: 
             HTML , CSS , JS
             
